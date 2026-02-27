@@ -1,0 +1,72 @@
+[
+  {
+    "id": "usr_001",
+    "email": "alice.johnson@example.com",
+    "password": "$2a$10$hashed1",
+    "first_name": "Alice",
+    "last_name": "Johnson"
+  },
+  {
+    "id": "usr_002",
+    "email": "bob.smith@example.com",
+    "password": "$2a$10$hashed2",
+    "first_name": "Bob",
+    "last_name": "Smith"
+  },
+  {
+    "id": "usr_003",
+    "email": "carol.williams@example.com",
+    "password": "$2a$10$hashed3",
+    "first_name": "Carol",
+    "last_name": "Williams"
+  },
+  {
+    "id": "usr_004",
+    "email": "dave.brown@example.com",
+    "password": "$2a$10$hashed4",
+    "first_name": "Dave",
+    "last_name": "Brown"
+  },
+  {
+    "id": "usr_005",
+    "email": "eve.davis@example.com",
+    "password": "$2a$10$hashed5",
+    "first_name": "Eve",
+    "last_name": "Davis"
+  },
+  {
+    "id": "usr_006",
+    "email": "frank.miller@example.com",
+    "password": "$2a$10$hashed6",
+    "first_name": "Frank",
+    "last_name": "Miller"
+  },
+  {
+    "id": "usr_007",
+    "email": "grace.wilson@example.com",
+    "password": "$2a$10$hashed7",
+    "first_name": "Grace",
+    "last_name": "Wilson"
+  },
+  {
+    "id": "usr_008",
+    "email": "henry.moore@example.com",
+    "password": "$2a$10$hashed8",
+    "first_name": "Henry",
+    "last_name": "Moore"
+  },
+  {
+    "id": "usr_009",
+    "email": "iris.taylor@example.com",
+    "password": "$2a$10$hashed9",
+    "first_name": "Iris",
+    "last_name": "Taylor"
+  },
+  {
+    "id": "usr_010",
+    "email": "jack.anderson@example.com",
+    "password": "$2a$10$hashed0",
+    "first_name": "Jack",
+    "last_name": "Anderson"
+  }
+]
